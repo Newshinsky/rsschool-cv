@@ -1,3 +1,6 @@
+![Photo Alexandr Novoshinsky](https://sun9-2.userapi.com/impf/0rG7b9xgHVHkVMuTGGacvGGvbwrvm0NlzSxYOg/7QFiG2no8Zc.jpg?size=640x800&quality=96&proxy=1&sign=ef3ab34ed85cec1889d7f943c966cdc7&type=album)
+
+
 # Alexandr Novoshinsky
 ### Contacts:
 * E-mail: Swipe_28@tut.by

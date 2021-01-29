@@ -25,7 +25,8 @@ I'm someone who works with enthusiasm. I have enough motivation for myself. I lo
 
 ### Code example:
 
-```function hero(bullets, dragons){
+``` javascript
+function hero(bullets, dragons){
 if (bullets/2 >= dragons) {
 return true;
 };
@@ -36,3 +37,6 @@ return false;
 
 ### Education:
 BNTU : Marketing
+
+
+

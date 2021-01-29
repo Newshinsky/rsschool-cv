@@ -9,9 +9,27 @@
 I'm someone who works with enthusiasm. I have enough motivation for myself. I love what I do, and it's contagious."
 
 ### Key skills:
+
 * HTML
 * CSS 
 * JavaScript (Basic level)
 * Photoshop
 
-### Code example
+### Language skills:
+* Russian (native)
+* English (B1)
+
+
+### Code example:
+
+```function hero(bullets, dragons){
+if (bullets/2 >= dragons) {
+return true;
+};
+return false;
+};
+```
+
+
+### Education:
+BNTU : Marketing
